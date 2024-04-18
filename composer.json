@@ -1,0 +1,12 @@
+{
+  "name": "Tilak-21/GreenRiverDev/328/pets2",
+  "authors": [
+    {
+      "name": "Tilak chudasama",
+      "email": "chudasama.Tilak@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
