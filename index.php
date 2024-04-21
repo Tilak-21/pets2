@@ -22,5 +22,14 @@ $f3->route('GET /', function() {
 
 });
 
+//Order route
+$f3->route('GET|POST /order', function() {
+
+
+    $view = new Template();
+    echo $view->render('views/home.html');
+
+});
+
 //Run Fat-Free - invoking a method!
 $f3->run();
